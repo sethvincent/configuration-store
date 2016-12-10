@@ -30,7 +30,10 @@
   "homepage": "https://github.com/sethvincent/configuration-store#readme",
   "dependencies": {
     "obj-keypath": "^1.1.0",
-    "os-homedir": "^1.0.2",
+    "os-homedir": "^1.0.2"
+  },
+  "devDependencies": {
+    "standard": "^8.6.0",
     "tap-spec": "^4.1.1",
     "tape": "^4.6.3"
   }
